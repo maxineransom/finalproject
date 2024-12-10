@@ -1,0 +1,5 @@
+C:\Users\Owner\OneDrive - Ozarks Technical Community College\COMP 120\Final\obj\Debug\net7.0\Final.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive - Ozarks Technical Community College\COMP 120\Final\obj\Debug\net7.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive - Ozarks Technical Community College\COMP 120\Final\obj\Debug\net7.0\Final.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive - Ozarks Technical Community College\COMP 120\Final\obj\Debug\net7.0\Final.AssemblyInfo.cs
+C:\Users\Owner\OneDrive - Ozarks Technical Community College\COMP 120\Final\obj\Debug\net7.0\Final.csproj.CoreCompileInputs.cache
